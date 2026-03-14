@@ -1,0 +1,4 @@
+interface:
+  display_name: "TPJ Mobile Touch"
+  short_description: "Add TPJ mobile touch controls"
+  default_prompt: "Use $tpj-mobile-touch-implementer to implement the PAR-04 Mobile Touch Support workstream for The Pizza Journey after reading docs/plans/project-plan.md and docs/plans/PAR-04.md."

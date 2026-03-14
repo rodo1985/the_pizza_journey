@@ -1,0 +1,4 @@
+interface:
+  display_name: "TPJ Quiz Content"
+  short_description: "Expand TPJ quiz content and rewards"
+  default_prompt: "Use $tpj-quiz-content-implementer to implement the PAR-03 Quiz Content workstream for The Pizza Journey after reading docs/plans/project-plan.md and docs/plans/PAR-03.md."

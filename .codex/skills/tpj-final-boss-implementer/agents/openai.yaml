@@ -1,0 +1,4 @@
+interface:
+  display_name: "TPJ Final Boss"
+  short_description: "Implement TPJ final boss battle"
+  default_prompt: "Use $tpj-final-boss-implementer to implement the PAR-05 Boss Battle workstream for The Pizza Journey after reading docs/plans/project-plan.md and docs/plans/PAR-05.md."

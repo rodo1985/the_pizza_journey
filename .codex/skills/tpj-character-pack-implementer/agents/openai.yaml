@@ -1,0 +1,4 @@
+interface:
+  display_name: "TPJ Character Pack"
+  short_description: "Build TPJ character roster and selection"
+  default_prompt: "Use $tpj-character-pack-implementer to implement the PAR-01 Character Pack workstream for The Pizza Journey after reading docs/plans/project-plan.md and docs/plans/PAR-01.md."

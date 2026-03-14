@@ -1,0 +1,4 @@
+interface:
+  display_name: "TPJ Level Pipeline"
+  short_description: "Build TPJ level data and progression"
+  default_prompt: "Use $tpj-level-pipeline-implementer to implement the PAR-02 Level Pipeline workstream for The Pizza Journey after reading docs/plans/project-plan.md and docs/plans/PAR-02.md."

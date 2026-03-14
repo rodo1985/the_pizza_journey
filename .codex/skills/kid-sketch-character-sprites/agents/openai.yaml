@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kid Sketch Character Sprites"
+  short_description: "Turn child sketches into sprite sets"
+  default_prompt: "Use $kid-sketch-character-sprites to turn this child-drawn character sketch into a game-ready PNG sprite set with movement variations."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "TPJ Polish And QA"
+  short_description: "Polish TPJ and strengthen QA"
+  default_prompt: "Use $tpj-polish-qa-implementer to implement the PAR-06 Polish And QA workstream for The Pizza Journey after reading docs/plans/project-plan.md and docs/plans/PAR-06.md."
